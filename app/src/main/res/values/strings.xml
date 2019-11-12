@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoFence</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="bottom_nav_home">Home</string>
+</resources>
